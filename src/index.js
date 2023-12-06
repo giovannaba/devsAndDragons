@@ -27,3 +27,5 @@ personagemJose.level = 3
 
 console.log('Insignia de ' + personagemPedrinho.nome + ': ' + personagemPedrinho.obterInsignia() )
 console.log('Insignia de ' + personagemJose.nome + ': ' + personagemJose.obterInsignia() )
+
+console.log
